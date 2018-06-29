@@ -1,1 +1,1 @@
-# Yaskawa_Motoman_YRSV3_J30
+# Yaskawa Motoman YRSV3 J30
