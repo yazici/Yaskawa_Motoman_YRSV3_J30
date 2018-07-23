@@ -35,3 +35,9 @@ Standard
 
 R21
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+https://www.yaskawa.com/products/motion/sigma-5-servo-products/rotary-servo-motors/sgmph-sigma-ii
+
+ 131,072 ppr incremental serial encoder was standard
+ 
+ 
