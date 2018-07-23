@@ -34,8 +34,4 @@ Incremental 13 Bit serial
 Standard
 
 R21
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-file:///C:/Users/deanf_iwtm3ll/Downloads/100355-a%20MOTOMAN%20XRC%20Instruction%20Manual%20MOTOMAN-SV3X%20-SV3XL.pdf
-Page 36
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
